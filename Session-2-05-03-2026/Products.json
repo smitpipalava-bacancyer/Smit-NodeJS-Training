@@ -1,0 +1,26 @@
+[
+  {
+    "id": 102,
+    "name": "Organic Green Tea",
+    "category": "Groceries",
+    "price": 12.5,
+    "stock": 500,
+    "description": "Premium imported green tea leaves."
+  },
+  {
+    "id": 101,
+    "name": "Wireless Bluetooth Headphones",
+    "category": "Electronics",
+    "price": 79.99,
+    "stock": 150,
+    "description": "Noise-canceling over-ear headphones."
+  },
+  {
+    "id": 103,
+    "name": "Cotton Crewneck T-Shirt",
+    "category": "Apparel",
+    "price": 25,
+    "stock": 300,
+    "description": "100% cotton comfortable crewneck."
+  }
+]
